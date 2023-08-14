@@ -1,0 +1,37 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="R5N9ik;)MX2TTK!}zN+X" x="315" y="-42"><statement name="HANDLER"><block type="device_show_number" id="xl;?=n.RBjPKbn=$A-df"><value name="number"><shadow type="math_number" id="}6)/U.X*L|wl]QckzeLY"><field name="NUM">5</field></shadow></value><next><block type="device_pause" id="E+NyN[c?I;m~P.[i.E3:"><value name="pause"><shadow type="timePicker" id="),f*R/Iz|^MJ^o([9}d*"><field name="ms">1000</field></shadow></value><next><block type="device_show_number" id="O;hOpJA:c/xtB9b_/r0,"><value name="number"><shadow type="math_number" id="yO1],$$U|nIi/7*YOH5@"><field name="NUM">4</field></shadow></value><next><block type="device_pause" id="{7|_1`uvcV,,$3!XfOL]"><value name="pause"><shadow type="timePicker" id="6bpv{)O:5#Tw#t5m-8St"><field name="ms">1000</field></shadow></value><next><block type="device_show_number" id="0wIu}7eK*rBV~Ess,jU|"><value name="number"><shadow type="math_number" id="J]UM74)$CSLlDW8=N-K^"><field name="NUM">3</field></shadow></value><next><block type="device_pause" id="}N?5iDMZ+mGRVi;7*i8z"><value name="pause"><shadow type="timePicker" id="v4IKYUb32pHUCPe@MwB:"><field name="ms">1000</field></shadow></value><next><block type="device_show_number" id="8duQS3YW2I#u*u^%}|k{"><value name="number"><shadow type="math_number" id="KwvzSEG8?GQP8~N|hs_)"><field name="NUM">2</field></shadow></value><next><block type="device_pause" id="rfM*q.JN(RzVM}e`g-U~"><value name="pause"><shadow type="timePicker" id="IoEtu^f9-6GU(Eo~3M00"><field name="ms">1000</field></shadow></value><next><block type="device_show_number" id="CYnL?.{W8H~!!?LEr3m,"><value name="number"><shadow type="math_number" id="wmrn@2vQOD-S;Wj8o[{h"><field name="NUM">1</field></shadow></value><next><block type="device_pause" id="mv.WR*6Y,O#tiEnA#R;j"><value name="pause"><shadow type="timePicker" id="Vk+Kf4xyk!RCBDRJ4/K}"><field name="ms">1000</field></shadow></value><next><block type="device_show_number" id="?f~_b6#i#NkO#8NZg.dp"><value name="number"><shadow type="math_number" id="/%Z+u,A;.ryKkw/$Zy5F"><field name="NUM">0</field></shadow></value><next><block type="device_pause" id="cj.{0nN;AI(!qC27%@0#"><value name="pause"><shadow type="timePicker" id=":X]tVU];7x870jK#,:e,"><field name="ms">2000</field></shadow></value><next><block type="device_show_leds" id="$Iamw`5req8=Yh9Te?Dk"><field name="LEDS">`
+        # . . # . 
+        . # . . . 
+        . . . # . 
+        . # . . # 
+        . . . # .
+        `</field><next><block type="device_clear_display" id="kJQ$S$n:8#/_#^?yd3|5"><next><block type="device_show_leds" id="Ss~`to~+C+g#gz78enbL"><field name="LEDS">`
+        . . . # . 
+        . . # . # 
+        # . . . . 
+        . . . # . 
+        # . # . .
+        `</field><next><block type="device_clear_display" id="ae$CNkX9``^D[o77T0ar"><next><block type="device_show_leds" id="-`P#+~~9=tpQaY;ex21B"><field name="LEDS">`
+        . . . . . 
+        # . . . # 
+        . . . # . 
+        . # . . . 
+        . . . # .
+        `</field><next><block type="device_clear_display" id="V#{cy+IO`7#x6I|pdd8G"><next><block type="device_show_leds" id="q2~)KAeV7c0}q_Su^cnh"><field name="LEDS">`
+        # . # . . 
+        . . . . . 
+        . # . # . 
+        . . # . . 
+        # . . . .
+        `</field><next><block type="device_clear_display" id="U?J6gR=3gT/B:KxZljP|"><next><block type="device_show_leds" id="eqmyArYw-NAT.N_zE/tP"><field name="LEDS">`
+        . . . # . 
+        . # . . . 
+        . . . # . 
+        . # . . . 
+        # . . # .
+        `</field><next><block type="device_clear_display" id="(wn3fS3{`hlTZ2ONLWY."><next><block type="device_show_leds" id="jFe[p=z?LDiRgP|HzK3u"><field name="LEDS">`
+        . . . . # 
+        # . # . . 
+        . # . . . 
+        . . # . . 
+        # . . . #
+        `</field><next><block type="device_clear_display" id="aipX)Mk,=Nq3;^C{,qk9"><next><block type="device_pause" id="rBaRs~lqs#Q1`Mj]Eo,N"><value name="pause"><shadow type="timePicker" id="145HN5TcZUfP;d7%$CS8"><field name="ms">2000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="pxt-on-start" id="^n6IUSx#XZ(tg5*@-AKM" x="0" y="0"></block></xml>
